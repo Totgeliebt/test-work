@@ -1,6 +1,6 @@
 ﻿
 string [] array = {"hello", "2", "world", ":-)"};
-string [] ShowArrayOfShortWords (string [] array){
+string [] ShowArrayOfShortWords(string [] array){
 
      string[] newArray = new string[array.Length];
      for (int i=0; i<array.Length; i++)
@@ -13,7 +13,7 @@ string [] ShowArrayOfShortWords (string [] array){
      return newArray;
 }
 
-void Print(string [] array){
+void PrintArray(string [] array){
     for (int i=0; i<array.Length; i++){
         Console.WriteLine(array[i]);
     }
@@ -21,6 +21,4 @@ void Print(string [] array){
 }
 
 
-
-Print(ShowArrayOfShortWords(array));
-// Print(array);
+PrintArray(ShowArrayOfShortWords(array));
