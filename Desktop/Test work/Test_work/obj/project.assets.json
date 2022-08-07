@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zhuravlik/Desktop/Test work/Test work.csproj",
-      "projectName": "Test work",
-      "projectPath": "/Users/zhuravlik/Desktop/Test work/Test work.csproj",
+      "projectUniqueName": "/Users/zhuravlik/Desktop/Test work/Test_work/Test_work.csproj",
+      "projectName": "Test_work",
+      "projectPath": "/Users/zhuravlik/Desktop/Test work/Test_work/Test_work.csproj",
       "packagesPath": "/Users/zhuravlik/.nuget/packages/",
-      "outputPath": "/Users/zhuravlik/Desktop/Test work/obj/",
+      "outputPath": "/Users/zhuravlik/Desktop/Test work/Test_work/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zhuravlik/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/zhuravlik/Desktop/Test work/Test_work/obj/Debug/net6.0/Test_work.csproj.AssemblyReference.cache
+/Users/zhuravlik/Desktop/Test work/Test_work/obj/Debug/net6.0/Test_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhuravlik/Desktop/Test work/Test_work/obj/Debug/net6.0/Test_work.AssemblyInfoInputs.cache
+/Users/zhuravlik/Desktop/Test work/Test_work/obj/Debug/net6.0/Test_work.AssemblyInfo.cs
+/Users/zhuravlik/Desktop/Test work/Test_work/obj/Debug/net6.0/Test_work.csproj.CoreCompileInputs.cache
+/Users/zhuravlik/Desktop/Test work/Test_work/bin/Debug/net6.0/Test_work
+/Users/zhuravlik/Desktop/Test work/Test_work/bin/Debug/net6.0/Test_work.deps.json
+/Users/zhuravlik/Desktop/Test work/Test_work/bin/Debug/net6.0/Test_work.runtimeconfig.json
+/Users/zhuravlik/Desktop/Test work/Test_work/bin/Debug/net6.0/Test_work.dll
+/Users/zhuravlik/Desktop/Test work/Test_work/bin/Debug/net6.0/Test_work.pdb
+/Users/zhuravlik/Desktop/Test work/Test_work/obj/Debug/net6.0/Test_work.dll
+/Users/zhuravlik/Desktop/Test work/Test_work/obj/Debug/net6.0/refint/Test_work.dll
+/Users/zhuravlik/Desktop/Test work/Test_work/obj/Debug/net6.0/Test_work.pdb
+/Users/zhuravlik/Desktop/Test work/Test_work/obj/Debug/net6.0/Test_work.genruntimeconfig.cache
+/Users/zhuravlik/Desktop/Test work/Test_work/obj/Debug/net6.0/ref/Test_work.dll
